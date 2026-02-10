@@ -61,9 +61,9 @@ const messages = [
     "sain bodood uz",
     "bi chamaig gomdoohgue ",
     "eeeldeeeeeee",
-    "gantshan odor shdee araichdee ydaj anhniih shde",
+    "1hn odor shdee araichdee ydaj anhniih shde",
     "bi asuuha boliloo shal durgu hurchlee",
-    "zaaa shaasima zovshoorchildoo burhan tenger altai tavan bogd hoh tenger altan gartai burhanmn gej guijiishdee yes deer ; darchih ❤️"
+    "zaaa shaasima zovshoorchildoo hoorhonoo guijiishdee yes deer darchih ❤️"
 ];
 
 let messageIndex = 0;
